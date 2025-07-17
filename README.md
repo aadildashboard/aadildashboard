@@ -1,44 +1,60 @@
-
 # 👋 Hi, I'm Md Aadil
 
 ### 🧑‍💻 Data Visualization & Analytics Enthusiast
 
-I’m a passionate data visualization and analytics professional with hands-on experience in Power BI, Tableau, SQL, Alteryx, Excel, and Python. My journey in data started during my internship, where I delved into transforming raw data into actionable insights through interactive dashboards and reports.
+I'm a passionate Data Analyst skilled in building data-driven solutions using **Power BI**, **Tableau**, **SQL**, **Alteryx**, **Excel**, and **Python**. I transform messy data into actionable insights and automate workflows to save time and boost efficiency.
 
-### 🔧 **Technical Skills**
+---
 
-- **Power BI**: Expertise in Power Query, DAX, data modeling, data transformation, and report designing.
-- **Tableau**: Skilled in creating dynamic dashboards, working with charts, graphs, and geographical mapping.
-- **SQL Server**: Proficient in query writing, joins, pivoting, formatting, and various SQL functions.
-- **Alteryx**: Experience in using tools like Formula Tool, Summarize Tool, and working with standard, batch, and iterative macros.
-- **Excel**: Competent in advanced Excel functions, pivot tables, data analysis, and reporting.
-- **Python**: Used for data modeling, clustering, and other analytics tasks.
+### 🔧 Technical Skills
 
-### 💼 **Work & Internship Experience**
+- **Visualization Tools**: Power BI, Tableau, Looker Studio
+- **Languages & Databases**: SQL, MySQL, Python (Pandas, NumPy)
+- **ETL & Workflow Tools**: Alteryx, Google Apps Script
+- **Cloud & Automation**: Azure Cloud, Python Automation, HTML to Text Pipelines
+- **Other Tools**: Excel, Google Sheets, Business Analysis, AI Tools
 
-- **TrainingYA** (Aug 2023 – Present): Developed and implemented dashboards and visualizations that provided key insights for stakeholders. Worked on data models using tools like Power BI, Tableau, SQL Server, Alteryx, Excel, and Python.
-- **Internship Projects**:
-  1. **Campaign Project**: Analyzed campaign expenses and duration using SQL and Power BI, delivering detailed visual reports.
-  2. **Demand Analysis Cluster Model**: Modeled data to optimize service plant locations, leveraging Tableau, Python, and Alteryx for demand-centric analysis.
+---
 
-### 🎓 **Education**
+### 💼 Work Experience
 
-- **BCOM (2022-2025)**: IGNOU
-- **Class XII (2022)**: K.R. Bose Smarak College, Muzaffarpur
-- **Class X (2019)**: NIOS Patna
+#### 📌 KollegeApply – *Data Analyst*  
+📍Gurgaon, India | 🗓️ Sept 2024 – Present  
+- Built performance dashboards (Power BI) to track content writer productivity and mandate achievement.  
+- Automated sales and expense tracking using Python and SQL, published via Power BI Service.  
+- Created HR dashboards and automated attendance tracking with Google Sheets & Apps Script.  
+- Reduced workload with a document-to-HTML conversion pipeline (Python + Apps Script).  
+- Analyzed website traffic using Looker.  
+- Occasionally led small teams and supported task coordination.
 
-### 🌱 **What I'm Currently Learning**
+#### 📌 CTC – *Data Analyst Intern*  
+📍Gurgaon, India | 🗓️ Feb 2024 – Aug 2024  
+- Created campaign dashboards in Tableau using Alteryx-prepared data.  
+- Analyzed bank loan data, segmented risk groups, and visualized trends by region and profile.
 
-I'm constantly enhancing my skills in data science and analytics. Right now, I'm exploring advanced techniques in Python for machine learning and deep diving into more complex data modeling strategies.
+---
 
-### 👀 **Looking to Collaborate**
+### 🎓 Education
 
-I’m open to collaborate on projects involving data visualization, analytics, or any interesting data-driven challenges.
+- **B.Com** – IGNOU *(2022 – 2025)*  
+- **Data Science & Visualization Certification** – TrainingYa *(2023 – 2024)*
 
-### 📫 **Get in Touch**
+---
 
-- **Email**: aadildev29@gmail.com
-- **GitHub**: [GitHub Repositories](https://github.com/aadildashboard)
+### 🌱 What I'm Currently Learning
 
-Let’s connect and explore the world of data together!
+- Advanced Python for machine learning  
+- Azure Cloud for data solutions  
+- Real-time data pipelines & advanced data modeling  
 
+---
+
+### 📫 Connect with Me
+
+- 📧 Email: [aadildev29@gmail.com](mailto:aadildev29@gmail.com)  
+- 💼 LinkedIn: [md-aadil](https://www.linkedin.com/in/md-aadil-48477231b)  
+- 💻 GitHub: [aadildashboard](https://github.com/aadildashboard)
+
+---
+
+Let's connect and explore the power of data together 🚀
