@@ -9,9 +9,9 @@ I'm a passionate Data Analyst skilled in building data-driven solutions using **
 ### 🔧 Technical Skills
 
 - **Visualization Tools**: Power BI, Tableau, Looker Studio
-- **Languages & Databases**: SQL, MySQL, Python (Pandas, NumPy)
+- **Languages & Databases**: SQL, MySQL, Python (Pandas, NumPy),HTML
 - **ETL & Workflow Tools**: Alteryx, Google Apps Script
-- **Cloud & Automation**: Azure Cloud, Python Automation, HTML to Text Pipelines
+- **Cloud & Automation**: Azure Cloud, Python Automation, ETL Pipeline
 - **Other Tools**: Excel, Google Sheets, Business Analysis, AI Tools
 
 ---
